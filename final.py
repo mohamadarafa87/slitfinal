@@ -28,7 +28,7 @@ def main():
 
     @st.cache(persist=True)
     def load_data():
-        df = pd.read_csv('D:\\SVU\\ISE 6  S20\\PR1      C9\\Files\\cardio1.csv')
+        df = pd.read_csv('data/cardio1.csv')
         return df
 
     @st.cache(persist=True)
