@@ -1,0 +1,10 @@
+Flask==1.1.2
+pandas==1.2.4
+imbalanced_learn==0.8.0
+utils==1.0.1
+numpy==1.20.1
+streamlit==0.80.0
+WTForms==2.3.3
+matplotlib==3.3.4
+imblearn==0.0
+scikit_learn==0.24.1
