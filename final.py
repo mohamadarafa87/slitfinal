@@ -205,7 +205,7 @@ def main():
 
     st.sidebar.subheader("Data on SMOTE")
     st.sidebar.write("Date Before SMOTE ", Counter(y_train))
-    st.sidebar.write("Date Before SMOTE ", Counter(y_train1))
+    st.sidebar.write("Date After SMOTE ", Counter(y_train1))
 
 
 
