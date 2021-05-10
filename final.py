@@ -37,7 +37,7 @@ def main():
 
 
 
-        df = pd.read_csv('C:\\Users\\Dell\\Desktop\\Pr1\\data\\cardio1.csv')
+        df = pd.read_csv('data/cardio1.csv')
         return df
 
     @st.cache(persist=True)
